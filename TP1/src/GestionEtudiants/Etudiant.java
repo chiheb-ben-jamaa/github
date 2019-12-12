@@ -1,8 +1,7 @@
 package GestionEtudiants;
 /* 
  * 
- * hagtic
- * 
+ * copyright by Hagtic
  * 
  * */
 public class Etudiant {
