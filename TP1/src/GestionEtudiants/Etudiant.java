@@ -1,5 +1,9 @@
 package GestionEtudiants;
-
+/* 
+ * 
+ * hagtic
+ * 
+ * */
 public class Etudiant {
 	public int nce;
 	public String nom,prenom;
